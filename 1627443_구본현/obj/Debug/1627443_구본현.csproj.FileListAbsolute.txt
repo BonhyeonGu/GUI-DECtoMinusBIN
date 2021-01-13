@@ -1,0 +1,10 @@
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\bin\Debug\1627443_구본현.exe.config
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\bin\Debug\1627443_구본현.exe
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\bin\Debug\1627443_구본현.pdb
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\obj\Debug\1627443_구본현.csprojAssemblyReference.cache
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\obj\Debug\_1627443_구본현.Form1.resources
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\obj\Debug\_1627443_구본현.Properties.Resources.resources
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\obj\Debug\1627443_구본현.csproj.GenerateResource.cache
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\obj\Debug\1627443_구본현.csproj.CoreCompileInputs.cache
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\obj\Debug\1627443_구본현.exe
+C:\Users\8whwh\source\repos\1627443_구본현\1627443_구본현\obj\Debug\1627443_구본현.pdb
